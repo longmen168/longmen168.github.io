@@ -3,16 +3,30 @@ layout: page
 title: About
 permalink: /about/
 ---
+## 关于我
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+您好，我是赵林海。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+华侨大学经济与金融学院教授、博士生导师。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[官方网站](https://sxy.hqu.edu.cn/info/1020/1419.htm)和[个人网站](https://longmen168.github.io/longmen168)有我的个人简介。
 
+“日月光华学术沙龙”微信公众号分享学术研究和人才培养的点滴经验，记录对热点经济金融问题的思考，欢迎扫码添加：
 
-[jekyll-organization]: https://github.com/jekyll
+![二维码](https://raw.githubusercontent.com/longmen168/longmen168.github.io/master/images/gongzhonghao.jpg)
+
+## 版权声明
+
+博客文章存档于_posts 文件夹下，版权归我所有，转载请与我联系获得授权许可。
+
+#This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+#You can find the source code for Minima at GitHub:
+#[jekyll][jekyll-organization] /
+#[minima](https://github.com/jekyll/minima)
+
+#You can find the source code for Jekyll at GitHub:
+#[jekyll][jekyll-organization] /
+#[jekyll](https://github.com/jekyll/jekyll)
+
+#[jekyll-organization]: https://github.com/jekyll
