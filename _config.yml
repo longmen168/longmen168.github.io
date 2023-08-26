@@ -38,7 +38,7 @@ minima:
 theme: minima
 header_pages:
    - index.markdown
-   - about.md
+   - about.markdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
