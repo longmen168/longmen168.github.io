@@ -19,7 +19,7 @@ permalink: /about/
 
 博客文章存档于_posts 文件夹下，版权归我所有，转载请与我联系获得授权许可。
 
-[^_^]:
+<!--
     This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
     You can find the source code for Minima at GitHub:
@@ -31,3 +31,4 @@ permalink: /about/
     [jekyll](https://github.com/jekyll/jekyll)
 
     [jekyll-organization]: https://github.com/jekyll
+-->
