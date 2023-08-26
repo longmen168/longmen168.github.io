@@ -41,6 +41,21 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Gitalk
+gitalk:
+  clientID: a4603934014f78524eed
+  clientSecret: e2dde28be52618a5f56a7d7683b2701f2bbaba7f
+  repo: longmen168.github.io
+  owner: longmen168
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: G-2GL8P2K9NS
+ga_domain: auto
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://longmen168.github.io
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
