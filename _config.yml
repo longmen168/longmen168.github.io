@@ -39,6 +39,8 @@ relative_links:
   enabled: true
   collections: true
 
+show_excerpts: true
+
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
