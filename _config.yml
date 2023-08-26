@@ -26,6 +26,32 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longmen168
 
+# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
+# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
+# it from the list(Delete '- name: ' and 'url: ', too!)
+navigation:
+  - name: 首页
+    url: /
+  - name: 关于
+    url: /about
+  - name: 标签
+    url: /tags
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+
+# Pagination
+paginate: 8
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: longmen168@126.com
+  github: longmen168 
+  
+# Text under the icons in footer
+footer-text: Copyright (c) 2023 longmen168
+
 # Build settings
 theme: minima
 header_pages:
