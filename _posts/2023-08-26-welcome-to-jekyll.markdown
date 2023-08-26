@@ -1,29 +1,33 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "硅谷银行倒闭的原因、影响及启示"
 date:   2023-08-26 12:58:33 +0800
-categories: jekyll update
+categories: 金融
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+硅谷银行（Silicon Valley Bank，SVB），总部位于加利福尼亚州圣克拉拉，其总资产在2022年底为2090亿美元。2023年3月10日，硅谷银行倒闭，成为美国历史上仅次于华盛顿互惠银行的第二大银行倒闭事件，也是自2008年全球金融危机期间雷曼兄弟公司倒闭以来发生的最大的银行倒闭事件。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## 一、硅谷银行倒闭的导火索及美国的应对措施
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2023年3月8日，硅谷银行首席执行官贝克尔致函股东说，该银行出售其投资组合中约210亿美元的美国国债和住房抵押贷款支持证券时亏损了18亿美元。硅谷银行计划未来将通过发售股票的方式募集22.5亿美元新资本来稳定银行。消息披露后，人们开始在社交媒体上揣测该银行的健康状况，多家风险投资公司建议其投资组合公司从硅谷银行撤出存款，从而导致银行挤兑。3月10日，当地金融监管部门以流动性不足和资不抵债为由关闭了硅谷银行，并由美国联邦存款保险公司接管了该银行的存款。之后，美联储承诺为硅谷银行提供贷款，注入流动性；同时美国政府宣布，为硅谷银行的存款提供全额担保。
 
-Jekyll also offers powerful support for code snippets:
+## 二、硅谷银行倒闭的原因剖析
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+硅谷银行服务的客户类型过于单一，银行面临的风险过度集中。硅谷银行专注于向科技类初创企业及其相关人士提供服务，包括吸收存款、发放贷款，为投资于高科技的风险投资公司和私募股权公司提供金融服务，为与高科技相关的高净值人士提供私人银行服务。科技类初创公司的特点是，他们依靠不断的融资来维持运营。如果金融市场银根宽松，他们就容易获得融资，现金充裕，他们在银行的存款就不断增加，硅谷银行除了发放贷款之外，把存款的很大一部分投资于债券等长期资产以获取收益；如果金融市场银根紧缩，他们就难以获得融资，他们就取出存款来维持运作，而硅谷银行就要出售其持有的债券等长期资产来应对取款需求。这就导致硅谷银行的存款余额随着金融市场银根的松紧而不断增加或减少，始终处于不平稳的状态。近两年，美联储为应对通货膨胀，不断加息收紧银根，势必引起硅谷银行的存款余额不断降低，而加息导致债券等长期资产价值缩水，硅谷银行出售这些资产就很可能遭受损失，最终触发硅谷银行走向了挤兑的窘境。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## 三、硅谷银行倒闭对美国和中国的影响
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+由于硅谷银行在美国金融网络中的系统重要性相对较低（美国第16大商业银行），加上美国监管当局及时出手控制局面，因此，硅谷银行倒闭对美国金融系统的影响相对有限，很难达到2008年雷曼兄弟倒闭所引起的冲击规模，不会带来系统性风险。当然，由于美国硅谷是美国高科技初创企业的聚集地，硅谷银行倒闭肯定会对美国的高科技产业带来一定的打击。
+硅谷银行倒闭几乎不会对中国经济和金融体系造成实质性影响。根据公开披露的信息，中国仅有20多家A股和H股上市公司与硅谷银行有规模较小的业务往来。硅谷银行虽然持有在中国境内注册的浦发硅谷银行50%的股权，但浦发硅谷银行是由浦发银行和硅谷银行合资成立的独立经营的法人机构。此外，浦发硅谷银行的市场份额较小，因此，硅谷银行倒闭很难通过浦发硅谷银行给中国带来大规模损害。
+
+## 四、硅谷银行倒闭的启示
+
+第一，商业银行经营应遵循分散化原则。无论是存款、贷款，还是投资，任何类别的业务的集中度都不可过高。过去我国商业银行遵循《巴塞尔协议》，比较注意贷款集中度。这次硅谷银行的案例告诉我们，存款集中度和投资集中度同样需要被关注。分散化原则适用于所有的金融业务，特别是当前形势下，我国国际储备的管理必须按照分散化原则，适当增加黄金储备，在保持外汇储备规模相对稳定的前提下，减少美元储备资产的比重，增加其他币种储备资产的比重，以规避潜在的金融风险可能带来的损失。
+第二，银行的资产和负债期限结构应该适度匹配。银行的盈利来源于长短期资金的利率（或收益率）差异。一方面，银行的资金来源，也就是负债，主要是存款，期限相对较短，利率相对较低；另一方面，银行的资金运用，也就是资产（包括贷款和投资），期限相对较长，利率（或收益率）相对较高。银行通过利差获取收益的经营模式存在脆弱性，即短期资金来源与长期资金运用之间存在错配。银行需要持有充足的短期流动性资产，使资产负债的期限结构保持在合理的匹配水平，以应对客户提取存款的需求。资料显示，2022年底，硅谷银行的流动性资产不足400亿美元，长期资产约1650亿美元（其中，长期投资913亿美元，贷款736亿美元），存款约1700亿美元，资产负债期限错配明显，一旦有20%以上的存款面临提款，该行势必陷入流动性危机。
+第三，银行应持续根据宏观经济政策和经济环境的变化审视其经营模式的合理性。硅谷银行利用短期存款资金支撑其大规模长期投资以获取收益的经营模式不是一直适宜的。2008年，为了对抗金融危机，特别是2020年为了应对疫情和刺激经济增长，美国长期实施量化宽松政策，金融市场资金极度宽裕，大量资金投资于高科技初创企业，进而给硅谷银行带来大规模低成本存款。但是随着美国通货膨胀持续升高，自2022年3月起，美联储持续加息，联邦基金利率水平从0升至4%以上，这令高科技初创企业难以从金融市场获得资金，这迫使他们不断从硅谷银行取出存款维持运营，而硅谷银行由于将大部分资金用于长期投资，流动性短缺，无法应付提款需求。事实上，美国的加息周期在硅谷银行倒闭一年前就开始了，如果银行及时调整经营策略，在一年前就开始逐步减持长期资产以保持充足的流动性，该银行就不会倒闭。
+
+## 欢迎参与交流讨论
+
+**我的微信公众号「日月光华学术沙龙」分享、记录、成长，敬请扫码添加，一起学习，共同成长。**
+
+![二维码](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/gongzhonghao.jpg)
