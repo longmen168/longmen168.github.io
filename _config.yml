@@ -26,19 +26,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longmen168
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  email: longmen168@126.com
-  github: longmen168
-  rss: # just type anything here for a working RSS icon
-
-# Text under the icons in footer
-footer-text: Copyright (c) 2023 longmen168
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+  # skin: classic, dark, solarized-dark, solarized, auto
+  # generate social links in footer
+  social_links:
+    github:longmen168
 
 # Gitalk
 gitalk:
