@@ -54,10 +54,10 @@ gitalk:
   repo: longmen168.github.io
   owner: longmen168
 
+# Google Analytics
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-2GL8P2K9NS
 ga_domain: auto
-# google analytics
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
