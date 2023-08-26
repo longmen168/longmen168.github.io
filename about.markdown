@@ -13,7 +13,7 @@ permalink: /about/
 
 “日月光华学术沙龙”微信公众号分享学术研究和人才培养的点滴经验，记录对热点经济金融问题的思考，欢迎扫码添加：
 
-![二维码](https://raw.githubusercontent.com/longmen168/longmen168.github.io/master/images/gongzhonghao.jpg)
+![二维码](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/gongzhonghao.jpg)
 
 ## 版权声明
 
