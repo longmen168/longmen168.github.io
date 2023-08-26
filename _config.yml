@@ -21,7 +21,7 @@
 title: 日月光华学术沙龙
 email: longmen168@126.com
 description: >- # this means to ignore newlines until "baseurl:"
-  经济学、金融学和管理学学术研究的记录和对热点经济学、金融学和管理学问题的讨论。本人主要关注以下领域的研究：宏观经济金融理论与政策；金融工程与风险管理；国际金融；量化金融与保险；金融科技；创新创业管理。
+  经济学、金融学和管理学学术研究的记录和对热点经济学、金融学和管理学问题的讨论。本人主要关注以下领域：宏观经济金融理论与政策；金融工程与风险管理；国际金融；量化金融与保险；金融科技；创新创业管理。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longmen168
