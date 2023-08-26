@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: 日月光华学术沙龙
+email: longmen168@126.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  经济学、金融学和管理学学术研究的记录和对热点经济学、金融学和管理学问题的讨论。本人主要关注以下领域的研究：宏观经济金融理论与政策；金融工程与风险管理；国际金融；金融科技；创新创业管理。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  longmen168
 
 # Build settings
 theme: minima
