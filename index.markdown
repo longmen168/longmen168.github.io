@@ -4,6 +4,7 @@
 
 layout: home
 toc: true
+comments: true
 ---
 
 ![日月光华学术沙龙](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/blog.jpg)
@@ -28,6 +29,8 @@ toc: true
 	exclude: ['Welcome']
   })
 </script>
+
+
 
 <!--不蒜子网站访客统计-->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
