@@ -25,7 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longmen168
-favicon: ![](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/favicon.ico)
+
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 
 # Build settings
 theme: minima
