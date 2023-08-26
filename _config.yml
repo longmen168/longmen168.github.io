@@ -41,9 +41,6 @@ relative_links:
 
 show_excerpts: true
 
-minima:
-  date_format: "%Y年-%b-%-d, -%"
-
 # Gitalk
 gitalk:
   clientID: a4603934014f78524eed
