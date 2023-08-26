@@ -94,3 +94,6 @@ comments: true
 		User:<span id="busuanzi_value_site_uv" style="font-family:Consolas;color:Red;font-size:12px;"></span>
 	</span>
 </div>
+
+# Text under the icons in footer
+footer-text: Copyright (c) 2023 longmen168
