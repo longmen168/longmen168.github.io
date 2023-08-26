@@ -26,14 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  longmen168
 
-minima:
-  date_format: "%b %-d, %Y"
-  skin: dark
-  # skin: classic, dark, solarized-dark, solarized, auto
-  # generate social links in footer
-  social_links:
-    github:longmen168
-
 # Build settings
 theme: minima
 header_pages:
@@ -47,6 +39,14 @@ relative_links:
   enabled: true
   collections: true
 
+minima:
+  date_format: "%b %-d, %Y"
+  skin: dark
+  # skin: classic, dark, solarized-dark, solarized, auto
+  # generate social links in footer
+  social_links:
+    github:longmen168
+
 # Gitalk
 gitalk:
   clientID: a4603934014f78524eed
@@ -57,6 +57,7 @@ gitalk:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-2GL8P2K9NS
 ga_domain: auto
+# google analytics
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
