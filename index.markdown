@@ -6,30 +6,18 @@ layout: home
 ---
 
 <div class="search-container">
-  <input type="text" id="search-input" placeholder="search blog posts..." style="width: 90%;
-    height: 35px;
-    color: #333;
-    background-color: rgba(227,231,236,.2);
-    line-height: 35px;
-    padding:0px 16px;
-    border: 1px solid #c0c0c0;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 17px;
-    outline: none;
-    box-sizing: border-box;
-    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);">
+  <input type="text" id="search-input" placeholder="search blog posts...">
   <ul id="results-container"></ul>
 </div>
 
 <!--script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script-->
-<script src="./js/simple-jekyll-search.min.js"></script>
+<script src="/js/simple-jekyll-search.min.js"></script>
 
 <script>
 	window.simpleJekyllSearch = new SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
-	json: './search.json',
+	json: '/search.json',
 	searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
 	noResultsText: 'No results found',
 	limit: 10,
@@ -37,10 +25,6 @@ layout: home
 	exclude: ['Welcome']
   })
 </script>
- 
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
 
 <!--不蒜子网站访客统计-->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
