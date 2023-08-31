@@ -28,6 +28,30 @@ categories: 金融
 
 第三，银行应持续根据宏观经济政策和经济环境的变化审视其经营模式的合理性。硅谷银行利用短期存款资金支撑其大规模长期投资以获取收益的经营模式不是一直适宜的。2008年，为了对抗金融危机，特别是2020年为了应对疫情和刺激经济增长，美国长期实施量化宽松政策，金融市场资金极度宽裕，大量资金投资于高科技初创企业，进而给硅谷银行带来大规模低成本存款。但是随着美国通货膨胀持续升高，自2022年3月起，美联储持续加息，联邦基金利率水平从0升至4%以上，这令高科技初创企业难以从金融市场获得资金，这迫使他们不断从硅谷银行取出存款维持运营，而硅谷银行由于将大部分资金用于长期投资，流动性短缺，无法应付提款需求。事实上，美国的加息周期在硅谷银行倒闭一年前就开始了，如果银行及时调整经营策略，在一年前就开始逐步减持长期资产以保持充足的流动性，该银行就不会倒闭。
 
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://longmen168.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//longmen168.disqus.com/count.js" async></script>
+
+<a href="https://longmen168.github.io#disqus_thread">Link</a>
+
 ## 欢迎参与交流讨论
 
 **我的微信公众号「日月光华学术沙龙」分享、记录、成长，敬请扫码添加，一起学习，共同成长。**
