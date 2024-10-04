@@ -7,7 +7,7 @@ toc: true
 comments: true
 ---
 
-![日月光华学术沙龙](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/blog.jpg)
+![日月光华经济金融论坛](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/blog.jpg)
 
 <div class="search-container">
   <input type="text" id="search-input" placeholder="search blog posts...">
