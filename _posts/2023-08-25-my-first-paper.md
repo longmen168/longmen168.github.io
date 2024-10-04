@@ -13,7 +13,7 @@ author: longmen168
 
 ## 名称
 
-本博客名为“日月光华学术沙龙”，源自母校复旦大学的校训“旦复旦兮，日月光华”。
+本博客名为“日月光华经济金融论坛”，源自母校复旦大学的校训“旦复旦兮，日月光华”。
 
 ![复旦大学LOGO](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/fudan-logo.png)
 
@@ -33,6 +33,6 @@ author: longmen168
 
 ## 欢迎参与交流讨论
 
-**我的微信公众号「日月光华学术沙龙」分享、记录、成长，敬请扫码添加，一起学习，共同成长。**
+**我的微信公众号「日月光华经济金融论坛」分享、记录、成长，敬请扫码添加，一起学习，共同成长。**
 
 ![二维码](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/gongzhonghao.jpg)
