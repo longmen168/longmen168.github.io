@@ -13,7 +13,7 @@ permalink: /about/
 
 [官方网站](https://sxy.hqu.edu.cn/info/1020/1419.htm)和[个人网站](https://longmen168.github.io/longmen168)有我的个人简介。
 
-“日月光华学术沙龙”微信公众号分享学术研究和人才培养的点滴经验，记录对热点经济金融问题的思考，欢迎扫码添加：
+“日月光华经济金融论坛”微信公众号分享学术研究和人才培养的点滴经验，记录对热点经济金融问题的思考，欢迎扫码添加：
 
 ![二维码](https://raw.githubusercontent.com/longmen168/longmen168.github.io/main/images/gongzhonghao.jpg)
 
